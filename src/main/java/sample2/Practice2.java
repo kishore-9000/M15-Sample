@@ -6,6 +6,7 @@ public class Practice2 {
 		System.out.println("kishore reddy");
 		System.out.println(" reddy");
 		System.out.println(" hello");
+		System.out.println(" hello sara");
 
 	}
 
